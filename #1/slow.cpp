@@ -1,4 +1,4 @@
-class Solution {
+class Solution { //O(n^2) complexity gross
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
         vector<int> sol;
