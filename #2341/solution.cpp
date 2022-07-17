@@ -13,7 +13,6 @@ public:
         
         ans[1] = nums.size() - ans[0] * 2;
         
-        return ans;
-            
+        return ans; 
     }
 };
