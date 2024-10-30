@@ -1,3 +1,3 @@
 # leet
-problems completed on leetcode
+some  completed on leetcode
 https://leetcode.com/problems
